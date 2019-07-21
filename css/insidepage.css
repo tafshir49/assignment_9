@@ -1,0 +1,166 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+
+}
+header{
+	height: 125px;
+	border-bottom:7px solid #e4e4e4;
+}
+.l-img{
+	padding: 35px;
+}
+.menu-area{
+	padding: 60px;
+
+}
+.menu-area ul{
+
+}
+.menu-area li{
+	list-style: none;
+	display: inline;
+
+}
+.menu-area li a{
+    color: #c7bcbc;
+    padding: 0px 31px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.ab-us{
+	padding: 85px;
+}
+
+.ab-des-one h2{
+
+}
+.ab-des-one p{
+     text-align: justify;
+    font-size: 13px;
+}
+.ab-des-img{
+
+}
+.ab-des-img img{
+	    height: 160px;
+    max-width: 75%;
+	
+	
+}
+.ab-des-two p{
+    font-size: 13px;
+     text-align: justify;
+}
+
+
+.f-area{
+	background-color: #ef4035;
+	padding: 18px;
+}
+.f-text p{
+	color:#ffff;
+	text-align: center;
+}
+
+@media(min-width: 768.1px) and (max-width: 1200px){
+	.l-img img {
+    height: 32px;
+    width: 170px;
+}
+.menu-area {
+    padding: 43px;
+}
+.menu-area li a {
+    color: #c7bcbc;
+    padding: 0px 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+header {
+    height: 90px;
+    border-bottom: 7px solid #e4e4e4;
+}
+.ab-us {
+    padding: 10px;
+}
+.ab-des-one h2 {
+    font-size: 23px;
+}
+.ab-des-one p {
+    text-align: justify;
+    font-size: 9px;
+}
+.ab-des-img img {
+    height: 111px;
+    max-width: 100%;
+    padding: 10px;
+}
+.ab-des-two p {
+    font-size: 9px;
+    text-align: justify;
+}
+.f-area {
+    background-color: #ef4035;
+    padding: 5px;
+}
+.f-text p {
+    color: #ffff;
+    text-align: center;
+    font-size: 7px;
+}
+}
+@media(min-width: 500px) and (max-width: 768px){
+.l-img img{
+    width: 130px;
+}
+.menu-area li a {
+    color: #c7bcbc;
+    padding: 0px 7px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+header {
+    height: 61px;
+    border-bottom: 4px solid #e4e4e4;
+}
+.menu-area {
+    padding: 10px 125px;
+    margin-top: -39px;
+    margin-left: 32px;
+}
+.ab-des-one h2 {
+    font-size: 16px;
+}
+.ab-des-one p {
+    text-align: justify;
+    font-size: 8px;
+}
+.ab-des-two p {
+    font-size: 8px;
+    text-align: justify;
+}
+.ab-us {
+    padding: 20px;
+}
+.f-text p {
+    color: #ffff;
+    text-align: center;
+    font-size: 5px;
+}
+.f-area {
+    background-color: #ef4035;
+    padding: 10px;
+}
+.one{
+	padding: 6px 0px;
+}
+.l-img {
+    padding: 4px;
+}	    
+}
